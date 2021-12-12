@@ -1,4 +1,4 @@
-# A simple implementation of the Graph Neural Networks (GCN) for the Cora dataset
+# A simple implementation of the Graph Convolution Networks (GCN) for the Cora dataset
 
 ### Data source: Cora dataset [link](https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz)
 
