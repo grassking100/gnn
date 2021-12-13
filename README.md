@@ -1,5 +1,7 @@
 # A simple implementation of the Graph Convolution Networks (GCN) for the Cora dataset
 
+![Visual](https://user-images.githubusercontent.com/16127951/145768441-00d070f8-37b4-479a-b7c7-9b708e404965.jpg)
+
 ### Data source: Cora dataset [link](https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz)
 
 ### The macro F1 plot of the result
