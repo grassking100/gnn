@@ -1,4 +1,4 @@
-# A simple implementation of the Graph Convolution Networks (GCN) for the Cora dataset
+# An implementation of the Graph Convolution Networks (GCN) for the Cora dataset
 
 ![Visual](https://user-images.githubusercontent.com/16127951/145768441-00d070f8-37b4-479a-b7c7-9b708e404965.jpg)
 
