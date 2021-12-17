@@ -16,4 +16,5 @@
 
 
 ## Reference
-Kipf, Thomas N., and Max Welling. "Semi-supervised classification with graph convolutional networks." arXiv preprint arXiv:1609.02907 (2016).
+1. Kipf, Thomas N., and Max Welling. "Semi-supervised classification with graph convolutional networks." arXiv preprint arXiv:1609.02907 (2016).
+2. McCallum, Andrew Kachites, et al. "Automating the construction of internet portals with machine learning." Information Retrieval 3.2 (2000): 127-163.
